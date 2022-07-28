@@ -29,7 +29,7 @@ brownie test . --network polygon-main-fork-dev  # tests will pass
 ```
 
 ## Deploying on-chain, testnet
-I'm using Polygon (Mumbai) for playing on live network, and [Alchemy](https://www.alchemy.com) as a node provider here. Before running the script make sure you have some [**MATIC**](https://coinmarketcap.com/ru/currencies/polygon/), to get them you can use this faucet [faucet](https://mumbaifaucet.com/).
+I'm using Polygon (Mumbai) for playing on live network, and [Alchemy](https://www.alchemy.com) as a node provider here. Before running the script make sure you have some [**MATIC**](https://coinmarketcap.com/ru/currencies/polygon/), to get them you can use this [faucet](https://mumbaifaucet.com/).
 
 ```bash
 export PRIVATE_KEY=<your-wallet-private-key>
