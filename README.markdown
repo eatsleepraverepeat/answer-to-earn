@@ -1,6 +1,10 @@
 # Answer-To-Earn
 ## Toy backend of abstractive Answer-To-Earn dApp for placing, answering to and accepting of answers to a various questions
 
+<p align="center">
+    <img src="https://img.shields.io/badge/100%25-blockchained-blueviolet" height="130">
+</p>
+
 ## Overview
 I came across a simple idea to code an application, which gives opportunity to earn some money by sharing a knowledge. There are many related projects, such as Quora as an example, where experts sharing expertise in different domains in a form of answering questions. AFAIK non of them rewarding experts financialy and this simple project implements an answer-to-earn mechanic to battle this unfairity. Project were written for educational purposes and can only be treated in the same way.
 
