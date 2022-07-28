@@ -14,7 +14,7 @@ This is a modified version of an idea, described in [**How To Build a Blockchain
 - General mechanic is extended, such that funding and rewarding made in custom [**ERC20**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) token called `QuestionToken`, where the one who placed a question can approve or accept someone answer for funds to be sent. Question itself, funding and accepting action has designed in respective smart-contract. Proceeding answers stored off-chain in mind (out of scope of this project), to not wasting gas as it many answers could be given. After completion accepted answer stored on-chain and question marked as inactive;
 - Testing is also extended to cover all the logic with different cases
 
-## Build and testing
+## Building and testing
 ```bash
 conda env create -f environment.yml
 conda activate eth-brownie
