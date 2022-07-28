@@ -2,7 +2,7 @@
 ## Toy backend of abstractive Answer-To-Earn dApp for placing, answering to and accepting of answers to a various questions
 
 <p align="center">
-    <img src="https://img.shields.io/badge/100%25-blockchained-blueviolet" height="30">
+    <img src="https://img.shields.io/badge/100%25-blockchained-blueviolet" height="10">
 </p>
 
 ## Overview
